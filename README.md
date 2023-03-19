@@ -1,2 +1,6 @@
-# api_basica
-projeto basico de api em laravel,para servir de base para outros projetos 
+#prerequisitos
+ php 7.4
+ criar banco de dados 'Api_laravel_udemy'
+#faça isso
+	php artisan migrate
+	php artisan serve	
